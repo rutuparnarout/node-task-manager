@@ -13,7 +13,7 @@ npm run start
 
 ## Contributing
 
-Please don't hesitate to open an issue or pull request. You can also send me a message on [LinkedIn](https://www.linkedin.com/in/rutuparna-rout/).
+Please don't hesitate to open an issue or pull request. You can also send me a message on [LinkedIn](https://www.linkedin.com/in/rutuparnarout/).
 
 ## License
 
